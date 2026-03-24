@@ -1,0 +1,1 @@
+/diagnostics/noresm-diagnostics-src/bin/diag_run -m all -c1 n1850.ne16pg3_tn14.noresm3_0_beta12.nl363c8beff.2026-03-16 -s1 821 -e1 880 -i1 /nird/datalake/NS9560K/noresm3/cases -c2 n1850.ne16pg3_tn14.noresm3_0_beta12.Run9.2026-03-11 -s2 821 -e2 880 -i2 /nird/datalake/NS9560K/noresm3/cases
